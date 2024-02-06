@@ -1,3 +1,3 @@
 # Noteflick
-Noteflick is a [PenguinMod](https://studio.penguinmod.com/editor.html) based web application that can be used to chat. 
-This repo exists mainly to house online files that may be needed to downloaded instead of being held in the software itself.
+Noteflick is a [PenguinMod](https://studio.penguinmod.com/editor.html) based web application that can be used to chat and also provides links to internet proxies.
+This repo exists to house the website the **index.html** file, which is the app itself.
